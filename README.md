@@ -1,4 +1,4 @@
-# Simple Face Recognition Attendance
+# Face Recognition Attendance System
 
 A minimal, accurate face recognition attendance system in a single file.
 
@@ -58,3 +58,4 @@ simple-face-recognition/
 - `Pillow` - Image processing
 
 Total project: **1 main file + 4 dependencies**"# face_recognition_attendance_system" 
+Created by :- Palak Behl
